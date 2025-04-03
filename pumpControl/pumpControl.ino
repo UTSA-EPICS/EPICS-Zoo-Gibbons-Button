@@ -7,17 +7,21 @@ void setup()
 {
   pinMode(buttonPin, INPUT_PULLUP);
   pinMode(motorPin, OUTPUT);
+  Serial.begin(9600);
 }
 
 void loop()
 {
   int buttonState = digitalRead(buttonPin);
+  Serial.println(buttonState);
   if (buttonState == HIGH) {
     digitalWrite(motorPin, LOW);
-    delay(5000)
+    Serial.println("Pin: LOW");
   }
   else {
     digitalWrite(motorPin, HIGH);
+    Serial.println("Pin: HIGH");
+    delay(5000);
   }
-  
+  	
 }
