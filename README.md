@@ -22,7 +22,8 @@ This project, developed in collaboration with the **San Antonio Zoo** through th
 ## Contributors  
 - **Luis Gonzalez**  
 - **Aaron Castello**  
-- **Tony Shenouda**  
+- **Tony Shenouda**
+- **Sebastian Mancha**
 
 ## Acknowledgments  
 Special thanks to the **San Antonio Zoo** for their support and collaboration! Aswell as the **UTSA EPICS Student Org** for funding and providing this opportunity
