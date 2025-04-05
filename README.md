@@ -1,5 +1,5 @@
 # EPICS Zoo - Gibbons Button  
-### By Luis Gonzalez, Aaron Castello, Tony Shenouda  
+### By Luis Gonzalez, Aaron Castello, Tony Shenouda, and Sebastian Mancha
 
 ## Overview  
 This project, developed in collaboration with the **San Antonio Zoo** through the **EPICS Student Organization**, aims to create an interactive button for **gibbons**. When pressed, the button will activate a water mist system, allowing the gibbons to engage with visitors in a fun and enriching way.  
